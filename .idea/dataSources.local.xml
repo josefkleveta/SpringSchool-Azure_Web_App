@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-233.11799.300">
+    <data-source name="schoolSystemWebApi@db6066.public.databaseasp.net" uuid="9eb9a0b1-92c6-40b1-9441-c3d0451a9c15">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>db6066</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
